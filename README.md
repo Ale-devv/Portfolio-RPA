@@ -1,4 +1,4 @@
-![image](https://cdn.discordapp.com/attachments/1208163466683093013/1282806844598784010/image.png?ex=66e0b279&is=66df60f9&hm=37f896b8204561b9e0adb9bbad347d449045b59d33b9b2292765e432b1989fc4&))
+![image](https://cdn.discordapp.com/attachments/1208163466683093013/1282806844598784010/image.png?ex=66e0b279&is=66df60f9&hm=37f896b8204561b9e0adb9bbad347d449045b59d33b9b2292765e432b1989fc4&)
 
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/TypeScript-brightgreen"/>
