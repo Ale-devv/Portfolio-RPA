@@ -1,0 +1,38 @@
+{
+    "courses": [
+
+        {
+            "courseName": "Complete UiPath RPA Developer Couse: Build 7 Robots",
+            "institution": "Udemy",
+            "duration": "30.5 horas",
+            "instructor": "Leon Petrou",
+            "certificate": "https://www.udemy.com/certificate/UC-10278075-d5ac-4f42-935a-d114666f222b/",
+            "conclusion": "2024"
+        },
+        {
+            "courseName": "Power Automate - Do Basíco ao Avançado",
+            "institution": "Udemy",
+            "duration": "13.5 horas",
+            "instructor": "Heidson Araujo Santos",
+            "certificate": "https://www.udemy.com/certificate/UC-1d7679ab-d2a2-46cb-8c87-0498dd6d2456/",
+            "conclusion": "2024"
+        },
+               {
+            "courseName": "Git e GitHub",
+            "institution": "Cursa",
+            "duration": "9 Horas",
+            "instructor": "Tiago Matos",
+            "certificate": "https://cursa.com.br/certificate/bcddf42e76",
+            "conclusion": "2023"
+        }, 
+        {
+            "courseName": "Javascript e Typescrit do basico ao avançado",
+            "institution": "Udemy",
+            "duration": "146 horas",
+            "instructor": "Luiz Otávio Miranda",
+            "certificate": "https://www.udemy.com/certificate/UC-8d4c359d-ab20-49f1-8a78-8b52c3e495b2/",
+            "conclusion": "2023"
+        }
+        
+    ]
+}

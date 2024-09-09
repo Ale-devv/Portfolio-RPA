@@ -1,0 +1,21 @@
+{
+    "projects": [
+        {
+            "projectType": "RPA",
+            "projectName": "RPA-Macros",
+            "projectRepo": "https://github.com/Ale-devv/RPA-Macros",
+            "status": "Em andamento",
+            "projectImage": "https://cdn.discordapp.com/attachments/1208163466683093013/1282692649589018624/Captura_de_tela_2024-09-09_102208.png?ex=66e0481e&is=66def69e&hm=c29ea5c63ba9018dec35bbc370fecb4b5fbbf7c487811561dc43799b9bb3604c&",
+            "projectDescription": "Projeto criado para configuração a habilitação das macros em VBA"
+        },
+        {
+            "projectType": "Front-end",
+            "projectName": "To-do List",
+            "projectRepo": "https://github.com/Ale-devv/Todo-list-Vue.js",
+            "status": "Em andamento",
+            "projectUrl": "h",
+            "projectImage": "https://cdn.discordapp.com/attachments/1154454824784515245/1165975770385092638/image.png?ex=6548ce8e&is=6536598e&hm=91c941d17fbfcde558abe98ea188c3915120e3e36122252bcd6d65bbcc30c83d&",
+            "projectDescription": "Este projeto é uma aplicação web desenvolvida com Vue.js que permite salvar as anotações que ficam salvas localmente"
+        }
+    ]
+}
